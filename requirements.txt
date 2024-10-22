@@ -1,0 +1,8 @@
+mlflow-skinny
+langchain
+langchain_core
+langchain_community
+langgraph
+pydantic
+pyyaml
+openai

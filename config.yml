@@ -1,0 +1,6 @@
+agent_prompt: You are a helpful assistant. Make sure to use tool for information.
+llm_endpoint: databricks-meta-llama-3-1-70b-instruct
+uc_functions:
+- demo_mlo.demo_agent.get_city_weather
+- demo_mlo.demo_agent.get_distance
+warehouse_id: 58aa1b363649e722
